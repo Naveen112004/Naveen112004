@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Naveen</h1>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Excel | Power BI</h3>
+
 ## 🧑‍💻 About Me:
 🔭 I’m currently working on data analysis projects using SQL, Excel, Power BI, and Python  
 🤝 I’m looking to collaborate on data analysis and dashboard projects  

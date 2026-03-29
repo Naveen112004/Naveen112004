@@ -25,7 +25,7 @@ Aspiring Data Analyst | SQL | Python (Pandas) | Excel | Power BI | Data Visualiz
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Naveen112004&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen112004&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen112004&layout=compact&theme=tokyonight))
 
 
 ## 🏆 GitHub Trophies

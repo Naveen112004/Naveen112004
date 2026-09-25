@@ -1,40 +1,70 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-Aspiring Data Analyst | SQL | Python (Pandas) | Excel | Power BI | Data Visualization
 
-## 🧑‍💻 About Me:
-🔭 I’m currently working on data analysis projects using SQL, Excel, Power BI, and Python  
-🤝 I’m looking to collaborate on data analysis and dashboard projects  
-🆘 I’m looking for help with advanced Python and real-world datasets  
-🌱 I’m continuously improving my skills in Pandas, SQL, and data visualization  
-💬 Ask me about SQL, Excel, Power BI, and Python basics  
-⚡ Fun fact: I enjoy turning raw data into meaningful insights and dashboards
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveen-kayakokula-9b1a7b298) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkayakokula@gmail.com) 
-
-## 💻 Tech Stack:
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen112004&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Naveen112004&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen112004&layout=compact&theme=tokyonight))
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Naveen112004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Naveen112004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <b>Aspiring Software Developer | Python | SQL | Git | GitHub</b>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Naveen112004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech Graduate
+- 💻 Interested in IT and Software Development roles
+- 🐍 Building projects using Python
+- 🗄️ Working with SQL and MySQL
+- 🔧 Using Git and GitHub for version control
+- 💡 Interested in programming, databases, and problem-solving
+- 🌱 Continuously improving my technical and coding skills
+- 🚀 Open to entry-level IT opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- 🐍 **Python Projects** — Python programming, OOP, functions, file handling, and application development
+- 🗄️ **SQL Projects** — Database design, SQL queries, joins, aggregations, subqueries, and data analysis
+- 💻 **Software Projects** — Practical applications developed to improve programming and problem-solving skills
+
+---
+
+## 📚 Currently Learning
+
+- Python Programming
+- Object-Oriented Programming
+- SQL & MySQL
+- Data Structures & Problem Solving
+- Git & GitHub
+- Software Development Fundamentals
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kayakokula-9b1a7b298)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenkayakokula@gmail.com)
+
+---
+
+## 🎯 Career Goal
+
+I am looking for an **entry-level IT / Software Development opportunity** where I can apply my Python, SQL, Git, and problem-solving skills while learning and contributing to real-world software projects.

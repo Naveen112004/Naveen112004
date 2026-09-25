@@ -67,7 +67,5 @@
 
 ## 🎯 Career Goal
 
-## 🎯 Career Goal
-
 I am seeking an **entry-level IT / Software Development opportunity** where I can apply my skills in **Python, SQL, Git, and problem-solving** while learning, contributing to real-world software projects, and growing as a software professional.
 

@@ -16,8 +16,14 @@
 * 💡 Interested in programming, databases, and problem-solving
 * 🌱 Continuously improving my technical and coding skills
 
-
 ---
+---
+
+## 🎓 Education
+
+**B.Tech – Electronics and Communication Engineering**  
+Kalasalingam Academy of Research and Education  
+2022 – 2026
 
 ## 🛠️ Technical Skills
 
@@ -38,24 +44,17 @@
 
 ---
 
-## 📌 Featured Projects
+## 📂 Projects
 
-- 🐍 **Python Projects** — Python programming, OOP, functions, file handling, and application development
-- 🗄️ **SQL Projects** — Database design, SQL queries, joins, aggregations, subqueries, and data analysis
-- 💻 **Software Projects** — Practical applications developed to improve programming and problem-solving skills
+### 📚 Library Book Management System | Python
+- Developed a menu-driven CRUD application using Python and modular functions.
+- Implemented input validation and error handling to maintain data consistency.
+- Tested and debugged core application workflows.
 
----
-
-## 📚 Currently Learning
-
-- Python Programming
-- Object-Oriented Programming
-- SQL & MySQL
-- Data Structures & Problem Solving
-- Git & GitHub
-- Software Development Fundamentals
-
----
+### 📊 Sales Performance Analysis | SQL
+- Analyzed sales transaction data using SQL to identify revenue trends and product performance.
+- Applied joins, aggregations, filtering, and validation techniques.
+- Developed SQL queries to extract and analyze transaction data.
 
 ## 🌐 Connect With Me
 

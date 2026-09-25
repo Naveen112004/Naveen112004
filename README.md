@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naveen</h1>
+<h1 align="center">Hello 👋, I'm Naveen</h1>
 
 <p align="center">
   <b>Aspiring Software Developer | Python | SQL | Git | GitHub</b>
@@ -6,16 +6,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate
-- 💻 Interested in IT and Software Development roles
-- 🐍 Building projects using Python
-- 🗄️ Working with SQL and MySQL
-- 🔧 Using Git and GitHub for version control
-- 💡 Interested in programming, databases, and problem-solving
-- 🌱 Continuously improving my technical and coding skills
-- 🚀 Open to entry-level IT opportunities
+* 🎓 B.Tech Graduate
+* 💻 Open to entry-level IT and Software Development opportunities
+* 🐍 Building projects using Python
+* 🗄️ Working with SQL and MySQL
+* 🔧 Using Git and GitHub for version control
+* 💡 Interested in programming, databases, and problem-solving
+* 🌱 Continuously improving my technical and coding skills
+
 
 ---
 
@@ -67,4 +67,7 @@
 
 ## 🎯 Career Goal
 
-I am looking for an **entry-level IT / Software Development opportunity** where I can apply my Python, SQL, Git, and problem-solving skills while learning and contributing to real-world software projects.
+## 🎯 Career Goal
+
+I am seeking an **entry-level IT / Software Development opportunity** where I can apply my skills in **Python, SQL, Git, and problem-solving** while learning, contributing to real-world software projects, and growing as a software professional.
+
